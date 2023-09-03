@@ -12,8 +12,7 @@ const Home = () => {
       ideaInk is an open-source blog posting tool for modern world to
       discover, create and share creative ideas
     </p>
-    <Feed/>
-    
+    <Feed/>  
   </section>
   )
 }
