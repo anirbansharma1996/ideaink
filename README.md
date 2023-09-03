@@ -1,5 +1,5 @@
 # ideaInk: Your Microblogging Destination
-![AI Prompt Sharing](https://i.ibb.co/9pQNZZy/Thumbnail-27.png)
+![AI Prompt Sharing](public/ideaInk.png)
 
 
 In the bustling world of social media, there's a new player in town, and it's changing the way we connect, share, and engage with the world. Say hello to "ideaInk" – your microblogging destination like no other!
